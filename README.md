@@ -15,4 +15,7 @@ Seccond, the same insights are attempted to be drawn however data from each text
 
 The rational: A need to develop 'smart' software using ML without needing to send private data to a cloud server. Instead instance based learning may be employed as a way to have offline ML on any device. without a need for storing large amounts of private data
 
+1. Run Texts.py
+2. Run Bayes.py
+
 Updated: Aug 2th 2018
