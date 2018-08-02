@@ -1,8 +1,8 @@
-# Experiments-in-ML
+## Experiments-in-ML
 My first trials in applying ML
 
-## SmartSilent - A machine learning algorithm to predict behavior.
-# Author: Duncan Cameron-Steinke
+# SmartSilent - A machine learning algorithm to predict behavior.
+## Author: Duncan Cameron-Steinke
 Updated: July 25thth 2018
 Problem: People want a personalised user experience, but don't want their data being tracked.
 Solution: Develop ML software that does not require intrusive data storage.
