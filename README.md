@@ -7,7 +7,7 @@ My first trials in applying ML
 ### Problem: People want a personalised user experience, but don't want their data being tracked.
 ### Solution: Develop ML software that does not require intrusive data storage.
 
-The following code creates a personalised user experience by calculating the probability that a text will be responded to. Based onon this probability it is able to chose whether the or not the phone should be on silent.
+The following code creates a personalised user experience by calculating the probability that a text will be responded to. Based on probability it could chose whether or not the phone should be on silent.
 
 This is accomplished twice, the first time stores data on each text that is received and sent, Bayes theorm is then used to derive the probability of the user wanting to receive the next text from that person.
 
