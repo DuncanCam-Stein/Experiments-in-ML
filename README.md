@@ -13,9 +13,13 @@ This is accomplished twice, the first time stores data on each text that is rece
 
 Seccond, the same insights are attempted to be drawn however data from each text is NOT recorded. Instead a probability value is updated with each iteration
 
-The rational: A need to develop 'smart' software using ML without needing to send private data to a cloud server. Instead instance based learning may be employed as a way to have offline ML on any device. without a need for storing large amounts of private data
+The rational: A need to develop 'smart' software using ML without needing to send private data to a cloud server. Instead instance based learning may be employed as a way to have offline ML on any device. without a need for storing large amounts of private data.
+
+* Open SmartSilentJupyter.ipynb to view the rendered code.
+
+or
 
 1. Run Texts.py
 2. Run Bayes.py
 
-Updated: Aug 2th 2018
+Updated: Aug 7th 2018
